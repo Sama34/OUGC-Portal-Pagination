@@ -2,13 +2,13 @@
 
 /***************************************************************************
  *
- *   OUGC Portal Pagination plugin (/inc/plugins/ougc_portalpagination.php)
- *	 Author: Omar Gonzalez
- *   Copyright: © 2012-2014 Omar Gonzalez
- *   
- *   Website: http://omarg.me
+ *	OUGC Portal Pagination plugin (/inc/plugins/ougc_portalpagination.php)
+ *	Author: Omar Gonzalez
+ *	Copyright: © 2012-2014 Omar Gonzalez
  *
- *  Adds pagination to your forum portal page.
+ *	Website: http://omarg.me
+ *
+ *	Adds pagination to your forum portal page.
  *
  ***************************************************************************
  
@@ -84,7 +84,7 @@ function ougc_portalpagination_info()
 		'version'		=> '1.1',
 		'versioncode'	=> 1100,
 		'compatibility'	=> '16*',
-		'guid' 			=> '',
+		'guid' 			=> '951a5f2df89407c4fbadf0c56c0db1af',
 		'pl'			=> array(
 			'version'	=> 12,
 			'url'		=> 'http://mods.mybb.com/view/pluginlibrary'
